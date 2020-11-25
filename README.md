@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a align="center" href="https://iescoders.com/author/nghiancies/">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nghia1991ad&count_private=true&show_icons=true&theme=vue" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghia1991ad&layout=compact&theme=gotham" alt="languages" height="165">
+    </p>
+</a>
