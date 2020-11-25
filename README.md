@@ -1,6 +1,3 @@
-### Hi!
-
-- 🌱 I’m currently learning Python, Seismology and how to live.
 
 <!--
 **nghia1991ad/nghia1991ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
